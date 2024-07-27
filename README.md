@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me akhilesh_.18 on insta or bhatakhilesh18@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 Akhilesh-Bhat/Akhilesh-Bhat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
