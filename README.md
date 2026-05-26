@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Akhilesh-Bhat
-- 👀 I’m interested in learning new things(python,java,sql)
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in learning new things(python,Power Bi,sql)
 - 📫 How to reach me akhilesh_.18 on insta or bhatakhilesh18@gmail.com
 
 
