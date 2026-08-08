@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Akhilesh-Bhat
-- 👀 I’m interested in learning new things(python,Power Bi,sql)
-- 📫 How to reach me akhilesh_.18 on insta or bhatakhilesh18@gmail.com
+- 👀 Power BI,Python,SQL
+- 📫 bhatakhilesh18@gmail.com
+- akhileshbhat18@gmail.com
 
 
 <!---
